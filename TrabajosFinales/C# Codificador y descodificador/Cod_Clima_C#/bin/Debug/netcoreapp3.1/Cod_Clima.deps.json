@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cod_Clima/1.0.0": {
+        "runtime": {
+          "Cod_Clima.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cod_Clima/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,3 @@
+x^y sera verdadero si uno de los dos es verdaderos, de lo contrario seran falsos.
+x&y sera verdadero si los dos son verdaderos, de lo contrario seran falsos.
+x|y sera verdadero si ni x ni y son verdaderos, de lo contrario seran falsos.

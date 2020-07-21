@@ -1,0 +1,41 @@
+Sample Input Events (CSV input file):
+DateAndTime,MinTemp,MaxTemp,Precipitation
+2020-07-13T19:30:25.525-04:00,25,34,30
+
+Codificar como una pareja de enteros: 64 bits (date) y 32 bits (variables climatologicas).
+Ejemplo (CSV output file):
+DateAndTime,Climate
+5464687,465468
+
+Modelo a seguir => DateAndTime,MinTemp,MaxTemp,Precipitation 
+                =>2020-07-13T19:30:25.525-04:00,25,34,30
+
+Total de bits => 60 bits
+60 bits => 01111110010011001111110111111011111011111110011110111111011(0-Para signo negativo)
+
+Full format => yyyy-MM-ddTHH24:mm:ss.fff±hh:mm
+
+Todos los bits encendidos => 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 => 33554431
+111111111111111111111111111111111111111111111111111111111111
+
+2020(año) => 0111 1110 0100 => 12 bits en total 
+4095(año) => 1111 1111 1111 => 12 bits en total
+
+12(mes) => 1100 => 4 bits en total
+
+31(dias) => 1 1111 => 5 bits en total
+
+23(horas) => 10111 => 5 bits en total
+
+59(minutos) => 11 1011 => 6 bits en total
+
+59(segundos) => 11 1011 => 6 bits en total
+
+999(milisegundos) => 11 1110 0111 = 10 bits en total
+
+23(tz hora) => 1 0111 => 5 bits en total
+
+59(tz minutos) => 11 1011 => 6 bits en total
+
+
+01111110010011001111110111111011111011111110011110111111011

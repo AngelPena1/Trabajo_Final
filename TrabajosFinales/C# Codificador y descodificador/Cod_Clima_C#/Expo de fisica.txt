@@ -1,0 +1,15 @@
+Ley de la conservacion de la energia
+
+El Principio de Conservación de la Energía o Ley de conservación de la energía, también conocido como el Primer principio de la termodinámica, establece que la cantidad total de energía en un sistema físico aislado (es decir, un sistema que este aislado sin interacción alguna con otros sistemas) permanecerá siempre igual, excepto cuando se transforme en otros tipos de energía.
+
+Esto se resume en el principio de que la energía en el universo no puede ni crearse ni destruirse, únicamente transformarse en otras formas de energía, como puede ser ya sea en energía eléctrica, en energía calórica(Esta es la forma en que operan las resistencias)  o en energía lumínica (forman en que opera los bombillos). De allí que, al realizar ciertos trabajos o en presencia de ciertas reacciones químicas, la cantidad de energía inicial y final parecerá haber variado si no se tienen en cuenta sus transformaciones.
+
+
+Algunos de estos ejemplos serian: 
+	*Al frenar un automóvil, la energía cinética que poseía el vehículo se transforma principalmente en calor y se amplifica la temperatura del sistema de frenado, de los neumáticos y del asfalto; asimismo la fricción con el aire genera calor.
+	*El movimiento de un péndulo en su posición más alta posee energía potencial que al bajar se transforma en energía cinética y al subir de nuevo se vuelva a convertir en energía potencial.
+	*O simplemente la energia que usamos en nuestro dia a dia, la cual puede provenir de diferentes fuentes con un destino final, el cual es nuestro consumo.
+
+De acuerdo al Principio de Conservación de la Energía, al introducir en un sistema una cantidad de calor (Q) determinada, ésta será siempre igual a la diferencia entre el aumento de la cantidad de energía interna (ΔU) más el trabajo (W) efectuado por dicho sistema. De esa manera, tenemos la fórmula: Q = ΔU + W, de donde se desprende que ΔU = Q – W.
+
+A otro campo que tambien puede aplicar este principio seria el de la quimica, pues la energía involucrada en una reacción química tenderá a conservarse siempre, al igual que la masa, excepto en los casos en que esta última se transforme en energía, como lo indica la famosa fórmula de Albert Einstein de E = m.c2, donde E es energía, m es masa y c la velocidad de la luz. Esta ecuación es de suma importancia en las teorías relativistas.
